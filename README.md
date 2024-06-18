@@ -1,9 +1,9 @@
-<h1 align=center>👋 &nbsp;Hey there! I'm Pau.</h1>
-Lorem ipsum…
+<img src="github-animation.png">
+<h3 align=center>Hello! I'm Pau.</h3>
+<p align=center>I am passionate about creating a meaningful impact through data.<br>I am determined to help address the most pressing concerns in society using data.<br>This hub tells you some of the solutions I have developed to tackle societal challenges.</p><br>
+<!-- <hr> -->
 
-<h1 align=center>⚡️ What You Won't See On My Résumé</h1>
-
-<h1 align=center>🛠️ Tech Stack</h1>
+<h1>TOOL KIT&nbsp;&nbsp;🛠️&nbsp;</h1>
 
 #### Programming Languages
 ![Bash](https://img.shields.io/badge/Bash-3A3A3A?style=flat&logo=gnubash) ![Python](https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/Markdown-3A3A3A?style=flat&logo=markdown) ![HTML](https://img.shields.io/badge/HTML-3A3A3A?style=flat&logo=html5)
@@ -18,7 +18,8 @@ Lorem ipsum…
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3A3A3A?style=flat&logo=apachespark) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-3A3A3A?style=flat&logo=amazonwebservices) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-3A3A3A?style=flat&logo=amazonec2) 
  ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-3A3A3A?style=flat&logo=amazons3)
 
-<h1 align=center>📊&nbsp;Projects</h1>
+<br>
+<h1>PROJECTS&nbsp;⚡️&nbsp;</h1>
 <details>
  <summary>
    <img src="https://img.shields.io/badge/Data%20Mining%20And%20Wrangling-002B59?style=for-the-badge&logo=pandas">
@@ -75,3 +76,10 @@ Lorem ipsum…
   </li>
  </ul>
 </details>
+
+<br>
+<h1>BEYOND DATA SCIENCE&nbsp;✨&nbsp;</h1>
+<ol>
+ <li>&nbsp;🎸&nbsp;I write songs! My main instrument is the guitar, but one of my goals is to learn how to play the piano and write my own pieces&nbsp;🎹</li>
+ <li>&nbsp;🎭&nbsp;I dabbled a bit in the performing arts when I was a kid until high school. I've directed and written a play as well and participated in several oratorical competitions. Ironically, I still experience stage fright during public presentations&nbsp;🫠</li>
+</ol>
