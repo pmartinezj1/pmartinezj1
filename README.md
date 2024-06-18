@@ -6,7 +6,7 @@ Lorem ipsum…
 <h1 align=center>🛠️ Tech Stack</h1>
 
 #### Programming Languages
-![Bash](https://img.shields.io/badge/Bash-3A3A3A?style=flat&logo=gnubash) ![Python](https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/Markdown-3A3A3A?style=flat&logo=markdown)
+![Bash](https://img.shields.io/badge/Bash-3A3A3A?style=flat&logo=gnubash) ![Python](https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/Markdown-3A3A3A?style=flat&logo=markdown) ![HTML](https://img.shields.io/badge/HTML-3A3A3A?style=flat&logo=html5)
 
 #### Data Science and Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-3A3A3A?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-3A3A3A?style=flat&logo=numpy) ![TensorFlow](https://img.shields.io/badge/Tensorflow-3A3A3A?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-3A3A3A?style=flat&logo=keras) ![PyTorch](https://img.shields.io/badge/PyTorch-3A3A3A?style=flat&logo=pytorch) 
@@ -52,11 +52,11 @@ Lorem ipsum…
   </li>
    <br><br>
 <!--   <li> -->
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" width="16" height="16">&nbsp;&nbsp;<a>Data In Disguise: Getting More from Less with AI and Interpretability Techniques</a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" width="16" height="16">&nbsp;&nbsp;<a href="https://github.com/paumartinez1/llm-data-augmentation.git">Data In Disguise: Addressing Textual Data Scarcity through AI and Interpretability Techniques</a>
    <br><br>
   </li>
 <!--   <li> -->
-   🚬&nbsp;&nbsp;<a>Huli Ka, Balbon!: Automated Alarm for Smoking in Non-Designated Areas using Deep Learning</a>
+   🚬&nbsp;&nbsp;<a href="https://github.com/paumartinez1/smoker-detection-deep-learning.git">Huli Ka, Balbon!: Automated Alarm for Smoking in Non-Designated Areas using Deep Learning</a>
   </li>
  </ul>
 </details>
@@ -67,30 +67,11 @@ Lorem ipsum…
  </summary>
  <ul>
 <!--   <li> -->
-   📰&nbsp;&nbsp;<a>Remember, Remember that Week in October: Analyzing Crime Events in the Philippines after Rodrigo Duterte's Election using GDELT</a>
+   📰&nbsp;&nbsp;<a href="https://github.com/paumartinez1/gdelt-eda.git">Remember, Remember that Week in October: Analyzing Crime Events in the Philippines after Rodrigo Duterte's Election</a>
   </li>
   <br><br>
 <!--   <li> -->
-  🦠&nbsp;&nbsp;<a>Behind the Mask: Tracing the Timeline of COVID-19 using Topic Modeling and Evolution</a>
+  🦠&nbsp;&nbsp;<a href="https://github.com/paumartinez1/covid19-topic-modeling.git">Behind the Mask: Tracing the Timeline of COVID-19 using Topic Modeling and Evolution</a>
   </li>
  </ul>
 </details>
-
-
-
-
-
-<!--
-**pmartinezj1/pmartinezj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
