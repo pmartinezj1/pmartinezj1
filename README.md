@@ -33,11 +33,11 @@ Lorem ipsum…
   </li>
    <br><br>
 <!--   <li> -->
-   🔍&nbsp;&nbsp;<a>Charting the Evolution of Ideas: Unsupervised Thematic Analysis of 30 Years of arXiv Research</a>
+   🔍&nbsp;&nbsp;<a href="https://github.com/paumartinez1/arxiv-clustering">Charting the Evolution of Ideas: Unsupervised Thematic Analysis of 30 Years of arXiv Research</a>
   </li>
    <br><br>
 <!--   <li> -->
-   📚&nbsp;&nbsp;<a>From Random Walks to Guided Journeys: Creating Learning Pathways through Frequent Itemset Mining</a>
+   📚&nbsp;&nbsp;<a href="https://github.com/paumartinez1/fim-learning-pathways/tree/main">From Random Walks to Guided Journeys: Creating Learning Pathways through Frequent Itemset Mining</a>
   </li>
  </ul>
 </details>
